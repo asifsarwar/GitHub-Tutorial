@@ -1,0 +1,16 @@
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\SaveDataToSQL.exe
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\SaveDataToSQL.pdb
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\EntityFramework.dll
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\EntityFramework.SqlServer.dll
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\Newtonsoft.Json.dll
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\StockAnalyzer.Data.dll
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\StockAnalyzer.Data.pdb
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\StockAnalyzer.Data.dll.config
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\EntityFramework.xml
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\EntityFramework.SqlServer.xml
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\bin\Release\Newtonsoft.Json.xml
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\obj\Release\SaveDataToSQL.csprojAssemblyReference.cache
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\obj\Release\SaveDataToSQL.csproj.CoreCompileInputs.cache
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\obj\Release\SaveDataToSQL.csproj.CopyComplete
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\obj\Release\SaveDataToSQL.exe
+E:\Console Projects\SaveDataToSQL\SaveDataToSQL\obj\Release\SaveDataToSQL.pdb

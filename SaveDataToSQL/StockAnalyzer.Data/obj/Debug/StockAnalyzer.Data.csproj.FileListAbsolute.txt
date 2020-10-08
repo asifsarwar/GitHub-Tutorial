@@ -1,0 +1,17 @@
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\StockAnalyzer.Data.dll.config
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\StockAnalyzer.Data.dll
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\StockAnalyzer.Data.pdb
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\Dapper.dll
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\EntityFramework.dll
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\Dapper.xml
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\EntityFramework.xml
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\obj\Debug\StockAnalyzer.Data.Migrations.Migration1.resources
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\obj\Debug\StockAnalyzer.Data.Migrations.ChangeStockPriceModel.resources
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\obj\Debug\StockAnalyzer.Data.csproj.GenerateResource.cache
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\obj\Debug\StockAnalyzer.Data.csproj.CoreCompileInputs.cache
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\obj\Debug\StockAnalyzer.Data.csproj.CopyComplete
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\obj\Debug\StockAnalyzer.Data.dll
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\obj\Debug\StockAnalyzer.Data.pdb
+E:\Console Projects\SaveDataToSQL\StockAnalyzer.Data\obj\Debug\StockAnalyzer.Data.csprojAssemblyReference.cache
